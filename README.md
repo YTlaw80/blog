@@ -31,26 +31,27 @@ It's just one more [jekyll](https://github.com/jekyll/jekyll) theme. Maybe it's 
 
 ~~~ yml
 # Site settings
-title: "gjuniioor"
-bye_message: "Thx!"
-baseurl: "/clyell/"
-url: "https://gjuniioor.github.io"
-disqus: gjuniioor
+title: "KR_YTlaw80"
+bye_message: ":)"
+baseurl: "/blog/"
+url: "https://ytlaw80.github.io"
+disqus: KR_YTlaw80
 
 # Header settings
-nick: "gjuniioor"
+nick: "KR_YTlaw80"
 mail:
     domain: "protonmail"
     ext: "ch"
 source_code:
     server: "github.com"
-    nick: "gjuniioor"
+    nick: "YTlaw80"
 blog:
-    server: "wordpress.com"
-    nick: "gjuniioor"
-fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
+    server: "https://www.ytlaw80.com"
+    nick: "KR_YTlaw80"
+fingerprint_key: "also visit https://www.youtube.com/@KR_YTlaw80"
 
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
+
 ~~~
