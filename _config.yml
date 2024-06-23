@@ -5,6 +5,10 @@ baseurl: "/blog/"
 url: "https://ytlaw80.github.io"
 disqus: KR_YTlaw80
 disqus_ID: YTlaw80
+analytics:
+  provider               : "G-S26T2WF923" 
+  google:
+    tracking_id          : "G-S26T2WF923"
 
 # Header settings
 nick: "KR_YTlaw80"
