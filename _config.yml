@@ -4,6 +4,7 @@ bye_message: ":)"
 baseurl: "/blog/"
 url: "https://ytlaw80.github.io"
 disqus: KR_YTlaw80
+disqus_ID: YTlaw80
 
 # Header settings
 nick: "KR_YTlaw80"
