@@ -1,7 +1,7 @@
 ---
 layout: post
 title:	"AboutMinecraft"
-date:	2024-06-23 09:32:24
+date:	2024-08-04 09:29:24
 categories:
     - blog
 tags:
@@ -9,6 +9,7 @@ tags:
     - knowledge
     - game
 ---
+# 현재 코드
 Money.java
 ```java
 package law.com.mcplugin0721;
