@@ -6,6 +6,7 @@ categories:
     - blog
 tags:
     - learning
+    - java
 ---
 # 1번 문제
 ## 지문: 

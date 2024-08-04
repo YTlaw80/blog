@@ -8,6 +8,7 @@ tags:
     - learning
     - knowledge
     - game
+    - java
 ---
 # 현재 코드
 Money.java

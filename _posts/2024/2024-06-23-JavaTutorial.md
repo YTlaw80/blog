@@ -6,6 +6,7 @@ categories:
     - blog
 tags:
     - learning
+    - java
 ---
 # Java는?
 ## 많이 쓰이는 언어이다.

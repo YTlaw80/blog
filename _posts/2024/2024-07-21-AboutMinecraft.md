@@ -8,6 +8,7 @@ tags:
     - learning
     - knowledge
     - game
+    - java
 ---
 # 마인크래프트
 ## 분류
