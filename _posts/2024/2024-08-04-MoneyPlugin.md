@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	"Minecraft Plugin Money System"
+title:	"MinecraftPluginMoneySystem"
 date:	2024-08-04 09:29:24
 categories:
     - blog
